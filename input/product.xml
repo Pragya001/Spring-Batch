@@ -1,0 +1,20 @@
+<products>
+    <product>
+        <productName>Apple</productName>
+        <productDesc>Iphone</productDesc>
+        <unit>4</unit>
+        <price>300</price>
+    </product>
+    <product>
+        <productName>Redmi</productName>
+        <productDesc>Android</productDesc>
+        <unit>10</unit>
+        <price>150</price>
+    </product>
+    <product>
+        <productName>IQOO</productName>
+        <productDesc>Vivo</productDesc>
+        <unit>7</unit>
+        <price>90</price>
+    </product>
+</products>

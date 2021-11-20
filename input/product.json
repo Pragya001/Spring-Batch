@@ -1,0 +1,20 @@
+[
+  {
+    "productName": "apple",
+    "productDesc": "iphone",
+    "unit": 3,
+    "price": 1600
+  },
+  {
+    "productName": "redmi",
+    "productDesc": "android",
+    "unit": 5,
+    "price": 160
+  },
+  {
+    "productName": "iqoo",
+    "productDesc": "vivo",
+    "unit": 30,
+    "price": 100
+  }
+]

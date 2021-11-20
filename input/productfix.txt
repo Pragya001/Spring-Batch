@@ -1,0 +1,4 @@
+productName productDesc   unit     price
+       Apple         apple        4      67
+     Samsung       samsung        7      90
+       Redmi         redmi       10      88
